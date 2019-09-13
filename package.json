@@ -1,0 +1,16 @@
+{
+  "name": "npm-exercise",
+  "version": "1.0.0",
+  "description": "Class exercise for node package manager",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "author": "Alvin Ng",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "robotjs": "^0.5.1"
+  },
+  "devDependencies": {}
+}
