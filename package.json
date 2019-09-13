@@ -4,14 +4,17 @@
   "description": "Class exercise for node package manager",
   "main": "script.js",
   "scripts": {
-    "test": "node script.js"
+    "test": "node script.js",
+    "wrap": "node wallpaper.js"
   },
   "author": "Alvin Ng",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
+    "download-file": "^0.1.5",
     "lodash": "^4.17.15",
-    "robotjs": "^0.5.1"
+    "robotjs": "^0.5.1",
+    "wallpaper": "^4.4.1"
   },
   "devDependencies": {}
 }
